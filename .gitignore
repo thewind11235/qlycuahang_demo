@@ -4,7 +4,7 @@
 /public/storage
 /public/excel/output/*.xlsx
 /storage/*.key
-/vendor
+#/vendor
 .env
 .env.backup
 .phpunit.result.cache
