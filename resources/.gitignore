@@ -1,0 +1,3 @@
+/sass/*.scss
+/js/*.js
+!.gitignore
